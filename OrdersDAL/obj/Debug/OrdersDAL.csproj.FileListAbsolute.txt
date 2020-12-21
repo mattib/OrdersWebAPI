@@ -1,0 +1,12 @@
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\bin\Debug\OrdersDAL.dll.config
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\bin\Debug\OrdersDAL.dll
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\bin\Debug\OrdersDAL.pdb
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\bin\Debug\EntityFramework.dll
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\bin\Debug\EntityFramework.xml
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\obj\Debug\OrdersDAL.csprojAssemblyReference.cache
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\obj\Debug\OrdersDAL.csproj.CoreCompileInputs.cache
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\obj\Debug\OrdersDAL.csproj.CopyComplete
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\obj\Debug\OrdersDAL.dll
+C:\Users\matti\source\repos\OrdersWebAPI\OrdersDAL\obj\Debug\OrdersDAL.pdb
